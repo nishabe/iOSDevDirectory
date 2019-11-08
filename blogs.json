@@ -64,6 +64,12 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Nish Abe On Medium",
+            "author": "Nish Abe",
+            "site_url": "https://medium.com/@nishabe",
+            "feed_url": "https://medium.com/feed/@nishabe"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
